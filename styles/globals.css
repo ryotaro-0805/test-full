@@ -18,7 +18,9 @@ body{
 }
 
 header, footer{
-  background-color: antiquewhite;
+ 
+ height: 10svh;
+ background-color: antiquewhite;
 }
 
 main{
